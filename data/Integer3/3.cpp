@@ -1,7 +1,7 @@
 /*
 Time: 2023-10-20
 Test: Copy constructor and assignment operator.
-std Time: 0.30s
+std Time: 0.00s
 Time Limit: 1.00s
 Notes: Sanity check.
 */
