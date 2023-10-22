@@ -51,6 +51,9 @@ public:
   // Integer2
   // ===================================
 
+  int2048 operator+() const;
+  int2048 operator-() const;
+
   int2048 &operator=(const int2048 &);
 
   int2048 &operator+=(const int2048 &);
