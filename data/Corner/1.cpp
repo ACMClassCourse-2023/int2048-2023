@@ -25,9 +25,7 @@ void sanity_check(sjtu::int2048 &x,sjtu::int2048 &y) {
 }
 
 signed main() {
-    // sanity check
     sjtu::int2048 x {"0000000000001145141919810"};
-    // normal test
     sjtu::int2048 y {"-1145141919810"};
 
     y += 1;
