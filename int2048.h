@@ -1,3 +1,4 @@
+#pragma once
 #ifndef SJTU_BIGINTEGER
 #define SJTU_BIGINTEGER
 
