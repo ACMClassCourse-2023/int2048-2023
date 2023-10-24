@@ -35,7 +35,7 @@ public:
 
   // 读入一个大整数
   void read(const std::string &);
-  // 输出储存的大整数
+  // 输出储存的大整数，无需换行
   void print();
 
   // 加上一个大整数
