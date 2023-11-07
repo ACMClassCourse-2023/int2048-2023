@@ -1,3 +1,4 @@
+#pragma once
 #ifndef SJTU_BIGINTEGER
 #define SJTU_BIGINTEGER
 
@@ -34,17 +35,17 @@ public:
 
   // 读入一个大整数
   void read(const std::string &);
-  // 输出储存的大整数
+  // 输出储存的大整数，无需换行
   void print();
 
   // 加上一个大整数
   int2048 &add(const int2048 &);
-  // 输出两个大整数之和
+  // 返回两个大整数之和
   friend int2048 add(int2048, const int2048 &);
 
   // 减去一个大整数
   int2048 &minus(const int2048 &);
-  // 输出两个大整数之差
+  // 返回两个大整数之差
   friend int2048 minus(int2048, const int2048 &);
 
   // ===================================
