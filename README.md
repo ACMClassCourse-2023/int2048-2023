@@ -105,3 +105,8 @@ PS：BONUS 部分对代码性能也有要求，需要通过对应的测试数据
 [高精度基础算法](https://baobaobear.github.io/post/20210228-bigint1/)
 
 [分治除法以及相关算法](https://baobaobear.github.io/post/20210320-bigint3/)
+
+[分治除法](https://ridiculousfish.com/blog/posts/labor-of-division-episode-iv.html
+)
+
+[牛顿迭代法](https://www.luogu.com.cn/blog/88403/solution-p5432)
